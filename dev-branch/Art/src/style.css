@@ -1,0 +1,46 @@
+.NAV{
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    gap: 10px;
+    max-width: fit-content;
+    max-height: 20px;
+    img{
+        max-height: 110px;
+    }
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+}
+body{
+    font-family: "Gloria Hallelujah", serif;
+    background-color: #407192 ;
+       
+}
+.artwork{
+    padding-top: 33px;
+    padding-bottom: 33px;
+    gap: 30px;
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #7FA0BE;
+    border-radius: 25px;
+    max-height: fit-content;
+    img{
+        max-width: 25%;
+    }
+    text-align: center;
+}
+.logo{
+    max-width: 10px;
+}
+.maincontent{
+    background-color: #77BBE6;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+
+}
